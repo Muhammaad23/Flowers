@@ -1,1 +1,2 @@
-<img src=".///flowers.jpg" alt="" width="100%" height="600"/>
+<img src="img/flowers.jpg" alt="Flowers" width="100%" height="600"/>
+
