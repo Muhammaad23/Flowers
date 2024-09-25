@@ -1,2 +1,2 @@
-<img src="https://images.app.goo.gl/8iSgsmH314U9HoZU7" alt="Flowers" width="100%" height="600"/>
+<img src="	https://storage.kun.uz/source/thumbnails/_medium/10/cd-Pm4lXKIEYnxxrFlhixCMN-F_aQfHp_medium.jpg" alt="Flowers" width="100%" height="600"/>
 
