@@ -1,1 +1,1 @@
-<img src=".//img/silverall.png" alt="" width="100%" height="600"/>
+<img src=".//silverall.png" alt="" width="100%" height="600"/>
